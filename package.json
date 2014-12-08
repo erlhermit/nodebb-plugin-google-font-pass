@@ -1,6 +1,6 @@
 {
 	"name": "nodebb-plugin-google-font-pass",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "This plugin can change google font use fonts.useso.com for mainland people.",
 	"main": "library.js",
 	"repository": {
