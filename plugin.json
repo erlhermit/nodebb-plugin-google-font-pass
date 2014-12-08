@@ -1,0 +1,14 @@
+{
+	"id": "nodebb-plugin-google-font-pass",
+	"name": "Google Font Pass",
+	"description": "This plugin can change google font use fonts.useso.com for mainland people.",
+	"url": "https://github.com/erlgo/nodebb-plugin-google-font-pass",
+	"library": "./library.js",
+	"less": [],
+	"templates": "./static/templates",
+	"hooks": [{
+		"hook": "static:app.load",
+		"method": "init"
+	}],
+	"compatibility": "~0.5.0"
+}
