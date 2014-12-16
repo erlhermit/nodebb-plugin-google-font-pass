@@ -1,29 +1,29 @@
 {
-	"name": "nodebb-plugin-google-font-pass",
-	"version": "0.0.3",
-	"description": "This plugin can change google font use fonts.useso.com for mainland people.",
-	"main": "library.js",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/erlgo/nodebb-plugin-google-font-pass"
-	},
-	"keywords": [
-		"nodebb",
-		"plugin",
-		"gogole font",
-		"gogole font",
-		"font"
-	],
-	"author": {
-		"name": "erlgo",
-		"email": "erlgo@ipc6.com"
-	},
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/erlgo/nodebb-plugin-google-font-pass/issues"
-	},
-	"nbbpm": {
-		"compatibility": "^0.6.0"
-	},
-	"readmeFilename": "README.md"
+  "name": "nodebb-plugin-google-font-pass",
+  "version": "0.0.4",
+  "description": "This plugin can change google font use fonts.useso.com for mainland people.",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erlgo/nodebb-plugin-google-font-pass"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "gogole font",
+    "gogole font",
+    "font"
+  ],
+  "author": {
+    "name": "erlgo",
+    "email": "erlgo@ipc6.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erlgo/nodebb-plugin-google-font-pass/issues"
+  },
+  "nbbpm": {
+    "compatibility": "^0.6.0"
+  },
+  "readmeFilename": "README.md"
 }
